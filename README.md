@@ -62,10 +62,4 @@ Dự án sử dụng **HTML**, **Bootstrap 5 (CDN)** và **JavaScript thuần**,
 
 ---
 
-## 📄 License
-
-Dự án này sử dụng giấy phép [MIT License](LICENSE).
-
----
-
 > 💡 _TickIt – Tick nhanh, gọn, đẹp. Danh sách việc cần làm chưa bao giờ đơn giản đến vậy._
