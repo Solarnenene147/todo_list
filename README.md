@@ -1,65 +1,67 @@
-# 🎯 TickIt – Responsive To-Do App with Bootstrap
+🎯 TickIt – Responsive To-Do App with Bootstrap
 
-**TickIt** là ứng dụng quản lý công việc (To-Do List) đơn giản, nhẹ, dễ dùng và hiển thị tốt trên mọi thiết bị.  
-Dự án sử dụng **HTML**, **Bootstrap 5 (CDN)** và **JavaScript thuần**, không cần cài đặt gì thêm.
+TickIt is a simple, lightweight, and user-friendly to-do list application that looks great on all devices.
+The project uses HTML, Bootstrap 5 (CDN), and vanilla JavaScript, requiring no additional setup.
 
----
+🚀 Key Features
 
-## 🚀 Tính năng chính
+📱 Responsive – works well on screens of all sizes, from mobile to desktop
 
-- 📱 **Responsive** – tương thích mọi màn hình từ điện thoại đến máy tính
-- ⌨️ Nhập công việc bằng textarea:
-  - Nhấn **Enter** để thêm task mới
-  - Nhấn **Shift + Enter** để xuống dòng trong nội dung task
-- ☑️ Đánh dấu công việc hoàn thành bằng checkbox
-- 🗑️ Xoá công việc dễ dàng
-- 🎨 Thiết kế màu sắc nhẹ nhàng, hiện đại
+⌨️ Enter tasks using a textarea:
 
----
+Press Enter to add a new task
 
-## 🛠️ Công nghệ sử dụng
+Press Shift + Enter to create a new line within the task
 
-- HTML5 + CSS3
-- Bootstrap 5 (qua CDN)
-- JavaScript thuần (Vanilla JS)
+☑️ Mark tasks as completed with a checkbox
 
----
+🗑️ Easily delete tasks
 
-## 📦 Cách sử dụng
+🎨 Modern, clean, and lightweight design
 
-1. Clone hoặc tải mã nguồn về:
-   ```bash
-   git clone https://github.com/Solarnenene147/todo_list.git
-   ```
-2. Mở file `index.html` trong trình duyệt web.
+🛠️ Technologies Used
 
----
+HTML5 + CSS3
 
-## 📝 Hướng dẫn sử dụng
+Bootstrap 5 (via CDN)
 
-- Gõ nội dung công việc vào ô nhập
-- Nhấn **Enter** để thêm
-- Sử dụng **Shift + Enter** để xuống dòng
-- Nhấn vào ô checkbox để đánh dấu hoàn thành
-- Nhấn **Xoá** để xoá công việc khỏi danh sách
+Vanilla JavaScript
 
----
+📦 How to Use
 
-## 📈 Định hướng mở rộng
+Clone or download the source code:
 
-- 💾 Lưu danh sách vào `localStorage` để giữ lại sau khi tải lại trang
-- 🔍 Thêm bộ lọc: Tất cả / Đã hoàn thành / Chưa hoàn thành
-- 🌙 Chế độ Dark Mode
-- ☁️ Đồng bộ dữ liệu với server (Node.js, Firebase, v.v.)
+git clone https://github.com/Solarnenene147/todo_list.git
 
----
 
-## 👤 Tác giả
+Open index.html in your web browser.
 
-- **Tên:** [Tên của bạn]
-- **Email:** [Email của bạn nếu muốn]
-- **GitHub:** [GitHub của bạn nếu có]
+📝 User Guide
 
----
+Type your task in the input box
 
-> 💡 _TickIt – Tick nhanh, gọn, đẹp. Danh sách việc cần làm chưa bao giờ đơn giản đến vậy._
+Press Enter to add it
+
+Use Shift + Enter to create a new line
+
+Click the checkbox to mark as completed
+
+Click Delete to remove a task from the list
+
+📈 Future Enhancements
+
+💾 Store the task list in localStorage to keep it after refreshing
+
+🔍 Add filters: All / Completed / Pending
+
+🌙 Dark Mode
+
+☁️ Sync data with a server (Node.js, Firebase, etc.)
+
+👤 Author
+
+Name: Huynh Minh Phuoc
+
+GitHub: https://github.com/Solarnenene147
+
+💡 TickIt – Fast, simple, beautiful. Managing your tasks has never been easier.
